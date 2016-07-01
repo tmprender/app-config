@@ -1,6 +1,13 @@
 security:
   basic:
-    enabled: false # turn of securing our application endpoints
+    enabled: true # turn of securing our application endpoints
+
+security:
+   user:
+     name: tom
+security:
+   user:
+     password: test
 
 management:
   security:
