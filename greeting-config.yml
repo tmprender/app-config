@@ -4,10 +4,10 @@ security:
 
 security:
    user:
-     name: tom
+     name: "tom"
 security:
    user:
-     password: test
+     password: "test"
 
 management:
   security:
