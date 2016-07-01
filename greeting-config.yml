@@ -2,13 +2,6 @@ security:
   basic:
     enabled: true # turn of securing our application endpoints
 
-security:
-   user:
-     name: "tom"
-security:
-   user:
-     password: "test"
-
-management:
+anagement:
   security:
     enabled: false # turn of securing the actuator endpoints
